@@ -1,0 +1,11 @@
+
+.card-body{
+    background-color: #d1d1d1;
+    border-left: 10px solid #5d5d5d;
+}
+.card-title{
+    text-transform: uppercase;
+}
+/* .post-container{
+    background-color:#d1d1d1 ;
+} */
